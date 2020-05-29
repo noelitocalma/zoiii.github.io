@@ -4,7 +4,8 @@ import React, { Component } from 'react';
 import {
   Route,
   Switch,
-  BrowserRouter as Router
+  BrowserRouter as Router,
+  HashRouter
 } from 'react-router-dom';
 import Sidebar from './components/Sidebar/Sidebar';
 import { routes } from './App.routes';
@@ -56,7 +57,7 @@ export class App extends Component {
       <div className={'portfolio ' + (this.state.sidebarVisible ? 'open-sidebar' : '')}>
         { this.pageHeader() }
 
-        <Router>
+        <HashRouter>
           <Sidebar></Sidebar>
           <div className="portfolio_content">
             <Switch>
@@ -65,7 +66,7 @@ export class App extends Component {
               ))}
             </Switch>
           </div>
-        </Router>
+        </HashRouter>
       </div>
     );
   }

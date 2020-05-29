@@ -6,7 +6,7 @@ import ReactGA from 'react-ga';
 class Home extends Component {
   state = {
     error: null,
-    loading: false,
+    loading: true,
     slogan: ''
   };
 
