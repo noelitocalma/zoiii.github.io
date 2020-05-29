@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.be944b5e.chunk.css",
-    "main.js": "/static/js/main.c0ed318d.chunk.js",
-    "main.js.map": "/static/js/main.c0ed318d.chunk.js.map",
+    "main.js": "/static/js/main.2585fbc1.chunk.js",
+    "main.js.map": "/static/js/main.2585fbc1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69d2159d.js",
     "runtime-main.js.map": "/static/js/runtime-main.69d2159d.js.map",
-    "static/js/2.95f308f6.chunk.js": "/static/js/2.95f308f6.chunk.js",
-    "static/js/2.95f308f6.chunk.js.map": "/static/js/2.95f308f6.chunk.js.map",
+    "static/js/2.a5e7bbec.chunk.js": "/static/js/2.a5e7bbec.chunk.js",
+    "static/js/2.a5e7bbec.chunk.js.map": "/static/js/2.a5e7bbec.chunk.js.map",
     "static/css/3.3fd795d3.chunk.css": "/static/css/3.3fd795d3.chunk.css",
     "static/js/3.ca549226.chunk.js": "/static/js/3.ca549226.chunk.js",
     "static/js/3.ca549226.chunk.js.map": "/static/js/3.ca549226.chunk.js.map",
@@ -25,7 +25,7 @@
     "static/js/8.fbb4f0aa.chunk.js": "/static/js/8.fbb4f0aa.chunk.js",
     "static/js/8.fbb4f0aa.chunk.js.map": "/static/js/8.fbb4f0aa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1e2eac0fcd7e627ee6bce5f804310709.js": "/precache-manifest.1e2eac0fcd7e627ee6bce5f804310709.js",
+    "precache-manifest.7eb659da89a2105f14ce70e9ab7a6aa5.js": "/precache-manifest.7eb659da89a2105f14ce70e9ab7a6aa5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.3fd795d3.chunk.css.map": "/static/css/3.3fd795d3.chunk.css.map",
     "static/css/4.3fd795d3.chunk.css.map": "/static/css/4.3fd795d3.chunk.css.map",
@@ -33,13 +33,13 @@
     "static/css/6.3fd795d3.chunk.css.map": "/static/css/6.3fd795d3.chunk.css.map",
     "static/css/7.3fd795d3.chunk.css.map": "/static/css/7.3fd795d3.chunk.css.map",
     "static/css/main.be944b5e.chunk.css.map": "/static/css/main.be944b5e.chunk.css.map",
-    "static/js/2.95f308f6.chunk.js.LICENSE.txt": "/static/js/2.95f308f6.chunk.js.LICENSE.txt",
+    "static/js/2.a5e7bbec.chunk.js.LICENSE.txt": "/static/js/2.a5e7bbec.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/Poppins-SemiBold.342ba3d8.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.69d2159d.js",
-    "static/js/2.95f308f6.chunk.js",
+    "static/js/2.a5e7bbec.chunk.js",
     "static/css/main.be944b5e.chunk.css",
-    "static/js/main.c0ed318d.chunk.js"
+    "static/js/main.2585fbc1.chunk.js"
   ]
 }
