@@ -1,0 +1,49 @@
+[
+  {
+    "event": "DHVTSU - Hackathon",
+    "role": "Faciliator/Judge",
+    "date": "April 2016",
+    "location": "DHVTSU - Pampanga, Philippines"
+  },
+  {
+    "event": "TORO INTER-SCHOOL IT ELITE CHALLENGE - FRONTEND Category",
+    "role": "Faciliator/Judge",
+    "date": "February 2017",
+    "location": "Holy Angel University - Pampanga, Philippines",
+    "moreinfo": "https://pbs.twimg.com/media/C41nLaVXAAA58hM?format=jpg&name=4096x4096"
+  },
+  {
+    "event": "DHVTSU - What should I do to become a better developer?",
+    "role": "Resource Speaker",
+    "date": "April 2016",
+    "location": "DHVTSU - Pampanga, Philippines",
+    "moreinfo": "https://zoiii.github.io/talk-dhvtsu"
+  },
+  {
+    "event": "Basic Web Development - HTML5, CSS3, Javascript",
+    "role": "Resource Speaker",
+    "date": "October 2016",
+    "location": "Angeles University Foundation - Pampanga, Philippines",
+    "moreinfo": "https://zoiii.github.io/talk-auf"
+  },
+  {
+    "event": "JS Conf Asia",
+    "role": "Attendee",
+    "date": "January 2018",
+    "location": "Singapore",
+    "moreinfo": "https://www.wantedly.com/journals/245"
+  },
+  {
+    "event": "DevFest Philippines 2018",
+    "role": "Attendee",
+    "date": "October 2018",
+    "location": "Manila, Philippines"
+  },
+  {
+    "event": "Oracle Modern Cloud Forum Phnom Penh",
+    "role": "Attendee",
+    "date": "August 2018",
+    "location": "Phnom Penh, Cambodia",
+    "moreinfo": "https://scontent.fpnh19-1.fna.fbcdn.net/v/t1.0-9/68997715_2861739633870613_8812069407195922432_o.jpg?_nc_cat=109&_nc_sid=110474&_nc_oc=AQlNGolmNdbgsvABO5EAvlg7t02SCQQzX3RlOsSMHgAW915JYbWJmQ-oAeUMlnQjd4M&_nc_ht=scontent.fpnh19-1.fna&oh=b070cbb6b3256dca7d3f199e837a6e04&oe=5EDDAA2E"
+  }
+]

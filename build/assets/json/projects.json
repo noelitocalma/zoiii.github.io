@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Petshed",
+    "stack": "PSD to HTML",
+    "desc": "E-commerce Website",
+    "year": "2015 - 2016",
+    "moreinfo": "https://www.petshed.com/"
+  },
+  {
+    "name": "TORO Coder",
+    "stack": "AngularJS, NodeJs, SCSS",
+    "desc": "Web IDE",
+    "year": "2015 - 2017",
+    "moreinfo": "https://www.torocloud.com/"
+  },
+  {
+    "name": "TORO Chart Builder",
+    "stack": "AngularJS, SCSS",
+    "desc": "create custom charts, provide static and dynamic data(via API)",
+    "year": "2016 - 2017",
+    "moreinfo": "https://www.torocloud.com/cmsstatic/report-builder-optimized.gif"
+  },
+  {
+    "name": "SIVA Health Care App",
+    "stack": "AngularJS, SCSS, Wordpress",
+    "desc": "Health care app",
+    "year": "2017",
+    "moreinfo": "https://siva.online/"
+  },
+  {
+    "name": "IMAPPS Web / WIP",
+    "stack": "Angular 7+, SCSS, Ant Design (for v2)",
+    "desc": "IMAPPS Web is an application that provides a real-time record of the production’s progressby recording their output directly to the application. It also provides useful dashboards and reportswhich helps to reduce or eliminate paperwork.",
+    "year": "2018 - present"
+  },
+  {
+    "name": "Dashboard Builder",
+    "stack": "Angular 9, SCSS, Ant Design",
+    "desc": "Drag and drop of templates, grids, widgets to create your own dashboard",
+    "year": "2019",
+    "moreinfo": "https://youtu.be/IkreGP3laqc"
+  },
+  {
+    "name": "Gantt Chart",
+    "stack": "Angular 9, SCSS, Ant Design",
+    "desc": "Plan tasks/items and adjust dates via drag and drop",
+    "year": "2019",
+    "moreinfo": "https://media.giphy.com/media/LOzg19P9Mxfr50Uqae/giphy.gif"
+  },
+  {
+    "name": "UERP Web Reports",
+    "stack": "Angular 9, SCSS, Ant Design, AG-GRID",
+    "desc": "Tabular Reports",
+    "year": "2019",
+    "moreinfo": "https://giphy.com/gifs/KCf5KIXcpeZAiVl0fe"
+  },
+  {
+    "name": "RFC Portal",
+    "stack": "Angular 9, SCSS, Ant Design",
+    "desc": "Creation, approval and tracking of system enhancements and development",
+    "year": "2018"
+  },
+  {
+    "name": "IPOD Web",
+    "stack": "Angular 7+, SCSS, Ant Design, AG-GRID",
+    "desc": "- Creation of Operations Bulletin used by the Factory",
+    "year": "2019"
+  },
+  {
+    "name": "Portfolio",
+    "stack": "ReactJS",
+    "desc": "My personal portolio",
+    "year": "2020"
+  }
+]
