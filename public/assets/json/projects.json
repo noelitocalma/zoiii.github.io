@@ -71,5 +71,12 @@
     "stack": "ReactJS",
     "desc": "My personal portolio",
     "year": "2020"
+  },
+  {
+    "name": "NGX-PWD",
+    "stack": "Angular 9",
+    "desc": "Password strength meter and generator",
+    "year": "2020",
+    "moreinfo": "https://www.npmjs.com/package/ngx-pwd"
   }
 ]
