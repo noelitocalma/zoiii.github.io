@@ -12,6 +12,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
+    "@types/react-redux": "^7.1.9",
     "@types/react-router": "^5.1.7",
     "@types/react-router-dom": "^5.1.5",
     "node-sass": "^4.14.1",
@@ -21,6 +22,7 @@
     "react-ga": "^2.7.0",
     "react-icons": "^3.10.0",
     "react-inlinesvg": "^1.2.0",
+    "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2"

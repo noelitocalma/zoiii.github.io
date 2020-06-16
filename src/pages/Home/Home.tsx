@@ -22,6 +22,11 @@ class Home extends Component {
       });
   }
 
+  get age () {
+    const today: any = new Date();
+    return  Math.floor((today - new Date('05/08/1994').getTime()) / 3.15576e+10)
+  }
+
   render() {
     if (this.state.loading) {
       return (<Loader />)
@@ -37,7 +42,7 @@ class Home extends Component {
             <p>
               I'm a frontend developer from Philippines <img className="home__content__flag" alt="flag" src="assets/images/flag.png" />
             </p>
-            <p>{this.state.slogan}</p>
+            <p>I am {this.age} years old, {this.state.slogan}</p>
             <p>
               If you want to get in touch, don't hesitate to contact me on my social media accounts or via <a href="mailto: noelitocalma@gmail.com">noelitocalma@gmail.com</a>.
             </p>

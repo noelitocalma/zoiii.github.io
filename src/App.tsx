@@ -16,7 +16,9 @@ import ReactGA from 'react-ga';
 export class App extends Component {
   state = { width: 0, height: 0, sidebarVisible: false };
 
-  constructor(props: any) {
+  constructor(
+    props: any
+  ) {
     super(props);
     this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
   }
@@ -58,7 +60,7 @@ export class App extends Component {
         { this.pageHeader() }
 
         <HashRouter>
-          <Sidebar></Sidebar>
+          <Sidebar />
           <div className="portfolio_content">
             <Switch>
               {routes.map((route, i) => (

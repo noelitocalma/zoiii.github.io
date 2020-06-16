@@ -76,6 +76,11 @@
           "name": "NodeJS",
           "level": "Proficient",
           "years": 2
+        },
+        {
+          "name": "Web Sockets",
+          "level": "Expert",
+          "years": 4
         }
       ]
     },

@@ -6,6 +6,13 @@ import { routes } from '../../App.routes';
 import SVG from 'react-inlinesvg';
 import Loader from '../Loader/Loader.lazy';
 
+interface Props {}
+interface State {
+  loading: boolean;
+  data: object[];
+  sidebarVisible: boolean;
+}
+
 class Sidebar extends Component {
   icons: any = {
     'facebook': <FaFacebookSquare />,
@@ -21,10 +28,19 @@ class Sidebar extends Component {
     'FaCalendarAlt': <FaCalendarAlt />
   }
 
-  state = {
+  state: State = {
     loading: true,
-    data: []
+    data: [],
+    sidebarVisible: false
   };
+
+  constructor (props: any) {
+    super(props);
+  }
+
+  handleClick () {
+    // this.app.setState({ sidebarVisible: false });
+  }
 
   componentDidMount () {
     fetch('assets/json/social-sites.json')
@@ -49,7 +65,7 @@ class Sidebar extends Component {
     return (
       <div className="portfolio_sidebar__links">
         {routes.map((route, i) => (
-          <div className="portfolio_sidebar__links__item" key={route.path}>
+          <div className="portfolio_sidebar__links__item" key={route.path} onClick={() => this.handleClick()}>
             <NavLink exact={true} activeClassName="active" to={route.path}>{this.icons[route.icon]} {route.title}</NavLink>
           </div>
         ))}
