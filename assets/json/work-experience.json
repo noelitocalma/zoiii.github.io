@@ -1,7 +1,30 @@
 [
   {
+    "position": "Asst. Manager | Frontend Development",
+    "date": "Feb 14, 2022, - Present",
+    "company": "Suntex Pte. Ltd",
+    "location": "Phnom Penh, Cambodia",
+    "tasks": [
+      "Develops and maintains web applications for the company using Angular / React (NextJS - Typescript)",
+      "Help team members/colleagues on the requirements",
+      "Overseeing the junior developers on their tasks and guiding them if they are having difficulties",
+    ]
+  },
+  {
+    "position": "Senior Frontend Developer",
+    "date": "July 01, 2021 - February 18, 2022",
+    "company": "Allianz Technology (Thailand) Co., Ltd.",
+    "location": "Bangkok, Thailand",
+    "tasks": [
+      "Develops web application for the company using Angular",
+      "Help team members/colleagues on the requirements",
+      "Guide other members of the team if they’re having difficulties on the requirements/coding",
+      "Code Reviewer on the PRs"
+    ]
+  },
+  {
     "position": "Web Developer Section Head",
-    "date": "Aug 01, 2019 - Present",
+    "date": "Aug 01, 2019 - June 12, 2021",
     "company": "Suntex Pte. Ltd",
     "location": "Phnom Penh, Cambodia",
     "tasks": [
