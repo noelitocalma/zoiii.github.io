@@ -34,13 +34,6 @@
     "year": "2018 - present"
   },
   {
-    "name": "Dashboard Builder",
-    "stack": "Angular 9, SCSS, Ant Design",
-    "desc": "Drag and drop of templates, grids, widgets to create your own dashboard",
-    "year": "2019",
-    "moreinfo": "https://youtu.be/IkreGP3laqc"
-  },
-  {
     "name": "Gantt Chart",
     "stack": "Angular 9, SCSS, Ant Design",
     "desc": "Plan tasks/items and adjust dates via drag and drop",
